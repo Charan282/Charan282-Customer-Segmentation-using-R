@@ -1,4 +1,4 @@
-# Charan282-Customer-Segmentation-using-R
+# Customer-Segmentation-using-R
 **Project Overview**
 This project focuses on customer segmentation based on demographic and behavioral attributes using clustering techniques. The goal is to analyze customer data and identify distinct customer groups for targeted marketing strategies.
 
